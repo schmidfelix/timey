@@ -1,10 +1,18 @@
 ---
-title: Licensing
-weight: 2
+title: Licensing 
+weight: 3
 ---
 
 # Licensing
 
-Timey is a simple, modern and intuitive timetracking app like you've always wished for. Organise your time by projects and tasks and export your billable time to get payed.
+Upon starting Timey the first time on a new computer, it will ask you for your license key. You can find that key on the
+[product page](https://felix-schmid.de/product/timey) when you're logged in into your account.
 
-Learn more about it on [usetimey.com](https://usetimey.com) or direct [buy a license](https://felix-schmid.de/product/timey).
+![](/assets/docs/timey/v1/img/activate_license.png)
+
+## Manage your licenses
+
+You can manage all your licenses inside [your account](https://felix-schmid.de/product/timey). There you can extend or
+renew your license, buy additional ones and see the devices which are linked with your license.
+
+You can open this page via the "Help" > "Manage your license" menu item.
