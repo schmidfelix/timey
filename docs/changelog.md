@@ -9,6 +9,8 @@ weight: 4
 
 - Bug which was causing an empty line at the top of the screen on Windows & Linux machines
 
+---
+
 # v1.1.0
 
 Many thanks to [@SebastiaanKloos](https://twitter.com/SebastiaanKloos) for providing great feedback!
@@ -29,6 +31,8 @@ Many thanks to [@SebastiaanKloos](https://twitter.com/SebastiaanKloos) for provi
 - Showing "Running" instead of "NaN" for currently active
   entries [[ISSUE-#15]](https://github.com/schmidfelix/timey/issues/15)
 - Filtered out all not finished entries on the statistics page which where causing "NaN" in all fields
+
+---
 
 # v1.0.0
 
