@@ -3,6 +3,12 @@ title: Changelog
 weight: 4
 ---
 
+# v1.1.1
+
+## Fixed
+
+- Bug which was causing an empty line at the top of the screen on Windows & Linux machines
+
 # v1.1.0
 
 Many thanks to [@SebastiaanKloos](https://twitter.com/SebastiaanKloos) for providing great feedback!
